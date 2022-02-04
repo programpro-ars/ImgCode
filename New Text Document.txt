@@ -1,0 +1,1 @@
+teamredminer.exe -a ethash -o stratum+ssl://eth-se.flexpool.io:5555 -u 0x26B0E2551d3C40E34fE516F68F2A4F02481eD967.MY_RX580X -o stratum+ssl://eth-de.flexpool.io:5555 -u 0x26B0E2551d3C40E34fE516F68F2A4F02481eD967.MY_RX580X -p x --eth_stratum ethproxy
